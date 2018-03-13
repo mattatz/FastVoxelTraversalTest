@@ -1,7 +1,7 @@
 Fast Voxel Traversal Test
 =====================
 
-![WebCam](https://raw.githubusercontent.com/mattatz/FastVoxelTraversalTest/master/Captures/FVT.png)
+![FVT](https://raw.githubusercontent.com/mattatz/FastVoxelTraversalTest/master/Captures/FVT.png)
 
 # Sources
 
